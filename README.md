@@ -3,6 +3,10 @@
 
 ## "The most advanced responsive front-end framework in the world." (or so they say)
 
+Foundation is a responsive front-end framework. Foundation provides a responsive grid and HTML and CSS UI components, templates,
+and code snippets, including typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions.
+Foundation is maintained by ZURB and is an open source project.
+
 ### Why Use Foundation:
 
 1. Semantic naming conventions
@@ -10,7 +14,10 @@
 3. Mobile-friendly
 4. Truly a foundation for css - not as many pre-made themes as Bootstrap, but very responsive to changes.
 
-![Screenshot](./images/screenshot.png)
+`` bash
+bower install foundation
+
+![Imgur](http://i.imgur.com/OpCBZBc.png)
 
 <b>Further Reading & Tutorials:</b>
 
