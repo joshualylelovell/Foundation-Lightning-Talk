@@ -9,13 +9,16 @@ Foundation is maintained by ZURB and is an open source project.
 
 ### Why Use Foundation:
 
+To an extent, it seems like personal preference. Many of the same types of features as Bootstrap. But, some consensus thoughts:
+
 1. Semantic naming conventions
 2. Grid System is easy to use
 3. Mobile-friendly
 4. Truly a foundation for css - not as many pre-made themes as Bootstrap, but very responsive to changes.
 
-`` bash
-bower install foundation
+Can Bower install from terminal:
+
+  bower install foundation
 
 ![Imgur](http://i.imgur.com/OpCBZBc.png)
 
