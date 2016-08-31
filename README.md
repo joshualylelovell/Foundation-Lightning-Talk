@@ -5,12 +5,14 @@
 
 ### Why Use Foundation:
 
-1. Semantic
-2. Grid System
+1. Semantic naming conventions
+2. Grid System is easy to use
+3. Mobile-friendly
+4. Truly a foundation for css - not as many pre-made themes as Bootstrap, but very responsive to changes.
 
-![Screenshot](images/screenshot.png)
+![Screenshot](./images/screenshot.png)
 
-<b>Further Reading & Tutorials</b>
+<b>Further Reading & Tutorials:</b>
 
 * [Foundation 6](http://foundation.zurb.com/)
 * [Foundation 6 Documentation](http://foundation.zurb.com/sites/docs/)
