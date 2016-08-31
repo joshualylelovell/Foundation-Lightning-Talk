@@ -16,9 +16,7 @@ To an extent, it seems like personal preference. Many of the same types of featu
 3. Mobile-friendly
 4. Truly a foundation for css - not as many pre-made themes as Bootstrap, but very responsive to changes.
 
-Can Bower install from terminal:
-
-  bower install foundation
+### Example:
 
 ![Imgur](http://i.imgur.com/OpCBZBc.png)
 
