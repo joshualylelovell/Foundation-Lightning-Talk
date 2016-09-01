@@ -1,4 +1,4 @@
-# Foundation 6
+# Foundation 6 for Sites
 
 
 ## "The most advanced responsive front-end framework in the world." (or so they say)
@@ -19,6 +19,10 @@ To an extent, it seems like personal preference. Many of the same types of featu
 ### Example:
 
 ![Imgur](http://i.imgur.com/OpCBZBc.png)
+
+<br>
+<br>
+<br>
 
 <b>Further Reading & Tutorials:</b>
 
