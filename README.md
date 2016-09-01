@@ -3,7 +3,7 @@
 
 ## "The most advanced responsive front-end framework in the world." (or so they say)
 
-Foundation is a responsive front-end framework. Foundation provides a responsive grid and HTML and CSS UI components, templates,
+Foundation is a responsive front-end framework, providing a responsive grid and HTML and CSS UI components, templates,
 and code snippets, including typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions.
 Foundation is maintained by ZURB and is an open source project.
 
@@ -15,6 +15,7 @@ To an extent, it seems like personal preference. Many of the same types of featu
 2. Grid System is easy to use
 3. Mobile-friendly
 4. Truly a foundation for css - not as many pre-made themes as Bootstrap, but very responsive to changes.
+5. Features: form validation w/ Abide, responsive image design w/ Interchange
 
 ### Example:
 
